@@ -1,0 +1,5 @@
+# ninja log v5
+10	797	734887494	CMakeFiles/planning_main.dir/pnc_map.cpp.obj	bc7c41453affc030
+1	810	734887494	CMakeFiles/planning_main.dir/planning_main.cpp.obj	a41f67a8112d04aa
+16	817	734887494	CMakeFiles/planning_main.dir/process.cpp.obj	9a8d1de071127797
+817	1262	734887494	D:/ADAS/C++/Lesson5/cmake_planning_test/bin/planning_main.exe	834a82810224631d
